@@ -1,0 +1,17 @@
+.vscode/
+.idea/
+.project
+
+coverage.txt
+
+.DS_Store
+node_modules/
+npm-debug.log
+.idea/
+dump.rdb
+.vscode/
+public/*
+dist
+lib
+coverage/
+.nyc_output/
